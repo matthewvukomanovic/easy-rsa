@@ -62,4 +62,4 @@ echo ""
 echo "Invoke './easyrsa' to call the program. Without commands, help is displayed."
 
 # Drop to a shell and await input
-bin/sh
+sh
