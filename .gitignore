@@ -1,0 +1,5 @@
+/easyrsa3/bin/
+/easyrsa3/EasyRSA-Start.bat
+/easyrsa3/shell-init.sh
+/easyrsa3/.rnd
+/easyrsa3/.bash_history
